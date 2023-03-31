@@ -14,7 +14,7 @@ int main()
     printf("hola puton\");
 
     printf("El negro se la come\");
-    printf("hola como estas trolazo\");
+    printf("santi se la come\");
 
     return 0;
 }
