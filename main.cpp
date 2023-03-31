@@ -10,6 +10,6 @@ int main()
     int ** punterodoble;
     int  *psimple;
     char letra = -1;
-    printf("hola puto \");
+    printf("hola puton\");
     return 0;
 }
