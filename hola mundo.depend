@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680201883 source:d:\users\walter\downloads\desarrollo de sofware\tercer cuatrimestre\eda2\practica\hola mundo\hola mundo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+
