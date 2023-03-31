@@ -11,7 +11,7 @@ int main()
     int  *psimple;
     char letra = -1;
     printf("El negro se la come\");
-    printf("santi se la come\");
+    printf("walter se la come\");
     return 0;
 }
 void hola()
