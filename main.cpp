@@ -12,9 +12,6 @@ int main()
     printf("hola puton\");
 
     printf("El negro se la come\");
-    printf("santi se la come\");
-     printf("santi se la come\");
-
     return 0;
 }
 void hola()
